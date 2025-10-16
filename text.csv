@@ -1,0 +1,11 @@
+ID,FirstName,LastName,Email,SignupDate,Country,Plan,MonthlySpend
+1001,Ada,Lovell,ada.lovell@example.com,2024-11-03,UK,Pro,19.99
+1002,Kenji,Sato,kenji.sato@example.com,2025-01-18,JP,Free,0.00
+1003,Maria,Gonzalez,maria.g@example.com,2024-09-07,ES,Starter,5.99
+1004,Liam,Nguyen,liam.n@example.com,2025-03-22,US,Pro,19.99
+1005,Zara,Patel,zara.p@example.com,2025-02-11,IN,Business,49.00
+1006,Jon,Eriksson,jon.eriksson@example.com,2024-12-29,SE,Free,0.00
+1007,Sofia,Rossi,sofia.rossi@example.com,2025-04-05,IT,Starter,5.99
+1008,Noah,Müller,noah.mueller@example.com,2024-10-14,DE,Pro,19.99
+1009,Chidi,Okafor,chidi.okafor@example.com,2025-06-01,NG,Business,49.00
+1010,Elena,Popov,elena.popov@example.com,2025-05-09,RU,Free,0.00
